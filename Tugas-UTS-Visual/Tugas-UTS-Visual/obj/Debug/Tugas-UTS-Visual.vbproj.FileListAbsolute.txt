@@ -1,0 +1,79 @@
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas-UTS-Visual.vbproj.AssemblyReference.cache
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas_UTS_Visual.Data_Management.resources
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas_UTS_Visual.Transaction.resources
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas_UTS_Visual.Form1.resources
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas_UTS_Visual.Input.resources
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas_UTS_Visual.Record.resources
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas_UTS_Visual.Resources.resources
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas-UTS-Visual.vbproj.GenerateResource.cache
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas-UTS-Visual.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\Tugas-UTS-Visual.exe.config
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\Tugas-UTS-Visual.exe
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\Tugas-UTS-Visual.pdb
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\Tugas-UTS-Visual.xml
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\Npgsql.dll
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Buffers.dll
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Memory.dll
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Text.Json.dll
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Threading.Channels.dll
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\Npgsql.xml
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Buffers.xml
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Memory.xml
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Text.Json.xml
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Threading.Channels.xml
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas-UT.8F5435CC.Up2Date
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas-UTS-Visual.exe
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas-UTS-Visual.xml
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas-UTS-Visual.pdb
+C:\Users\user\Documents\vb_File\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas_UTS_Visual.TransactionRecord.resources
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\Tugas-UTS-Visual.exe.config
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\Tugas-UTS-Visual.exe
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\Tugas-UTS-Visual.pdb
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\Tugas-UTS-Visual.xml
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\Npgsql.dll
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Buffers.dll
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Memory.dll
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Numerics.Vectors.dll
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Text.Encodings.Web.dll
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Text.Json.dll
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Threading.Channels.dll
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.ValueTuple.dll
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\Npgsql.xml
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Buffers.xml
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Memory.xml
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Numerics.Vectors.xml
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Text.Encodings.Web.xml
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Text.Json.xml
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Threading.Channels.xml
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\bin\Debug\System.ValueTuple.xml
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas-UTS-Visual.vbproj.AssemblyReference.cache
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas_UTS_Visual.Data_Management.resources
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas_UTS_Visual.Transaction.resources
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas_UTS_Visual.Form1.resources
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas_UTS_Visual.Input.resources
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas_UTS_Visual.TransactionRecord.resources
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas_UTS_Visual.Resources.resources
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas-UTS-Visual.vbproj.GenerateResource.cache
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas-UTS-Visual.vbproj.CoreCompileInputs.cache
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas-UT.8F5435CC.Up2Date
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas-UTS-Visual.exe
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas-UTS-Visual.xml
+D:\3. MUHAMMAD RAFFI, SE-3\Tugas-UTS-Visual\Tugas-UTS-Visual\obj\Debug\Tugas-UTS-Visual.pdb
